@@ -1,1 +1,3 @@
-# classificacao-de-pinguins
+# Projeto de Classificação de Espécies de Pinguins com Python
+
+Neste projeto, utilizei o conjunto de dados 'penguins' do Seaborn para construir modelos preditivos para a espécie de pinguim. O código demonstra o pré-processamento de dados usando OneHotEncoder e LabelEncoder para lidar com variáveis categóricas. Em seguida, construí e avaliei três modelos de classificação: DecisionTreeClassifier (com critério de entropia), KNeighborsClassifier e DecisionTreeClassifier (com profundidade máxima de 2). As bibliotecas Python Pandas, Seaborn e Scikit-learn foram essenciais para este projeto. Os resultados da acurácia são exibidos para comparação, fornecendo insights sobre o desempenho de cada modelo na tarefa de classificação.
